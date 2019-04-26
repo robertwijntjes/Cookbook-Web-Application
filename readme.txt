@@ -1,4 +1,4 @@
-Created By David Hunt & Robert Wijntjes
+Created By Robert Wijntjes
 
 Instructions
 In order to be able to use the website you must first run setupdatabase.php in
